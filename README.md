@@ -30,12 +30,10 @@ The goal was to combine **storytelling, comparative analysis, and geographic con
 ## 🖼️ Dashboard Previews
 
 ### Dashboard 1 — Performance, Weather & Tyre Strategy
-![Dashboard 1](<img width="2462" height="1109" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4b093d03-fb0d-4994-b239-6c8b49a615dd" />
-)
+<img width="2462" height="1109" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4b093d03-fb0d-4994-b239-6c8b49a615dd" />
 
 ### Dashboard 2 — Circuit Lap Times & Global Pit Performance
-![Dashboard 2](<img width="2462" height="1109" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7dbdbd6f-edf4-43f3-aa6e-ef0e10ed9192" />
-)
+<img width="2462" height="1109" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7dbdbd6f-edf4-43f3-aa6e-ef0e10ed9192" />
 
 ---
 
