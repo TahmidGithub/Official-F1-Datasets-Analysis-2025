@@ -90,13 +90,6 @@ The analysis is built on the **Official F1 2025 dataset**, including race result
 
 ---
 
-## 👤 Author
-
-**Tahmid**
-🔗 [GitHub](https://github.com/TahmidGithub) • [Tableau Public Profile](https://public.tableau.com/)
-
----
-
 ## 💬 Feedback
 
 If you spot an interesting pattern in the data or have suggestions for additional views, feel free to open an issue or reach out. Pull requests welcome.
